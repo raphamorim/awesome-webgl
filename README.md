@@ -1,4 +1,4 @@
-# Awesome Webgl
+# Awesome WebGL
 
 WebGL (Web Graphics Library) is a JavaScript API for rendering interactive 3D computer graphics and 2D graphics within 
 any compatible web browser without the use of plug-ins. WebGL is integrated completely into all the web standards
